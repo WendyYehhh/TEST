@@ -1,5 +1,5 @@
 # TEST
-[^Beacon是啥]
+[^Beacon]
 af;dslfja
 asdfasdfas
 asdfadsf
