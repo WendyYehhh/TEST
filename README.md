@@ -1,5 +1,5 @@
 # TEST
-[^Beacon]
+Beacon[^Beacon]
 af;dslfja
 asdfasdfas
 asdfadsf
