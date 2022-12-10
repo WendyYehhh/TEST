@@ -18,7 +18,7 @@ OS的資料庫會搜集各式各樣的資料，根據不同用途/型態分門�
 
 以下也將用下圖的概念、方式來做解釋，例如左邊：「訂單」為Model名稱；下方的「組織、日期時間、消費金額、訂單品項、消費者」為此Model所擁有的欄位，箭頭表示「組織、訂單品項、消費者」可以關聯到其他Model的instance。
 
-<img src="./images/PerformanceReport_IntroModel.jpg" alt="Model概念說明" style="zoom:33%;" />
+<img src="./images/PerformanceReport_IntroModel.JPG" alt="" style="zoom:33%;" />
 
 ## 數據來源Know-how
 
